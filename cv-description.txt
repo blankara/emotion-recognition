@@ -1,0 +1,1 @@
+Developed an emotion recognition model using a fine-tuned DistilRoBERTa transformer. The model classifies English text into seven emotional categories (joy, sadness, anger, fear, love, surprise, neutral). Built in Python using Hugging Face Transformers and hosted on GitHub with interactive demo support via Google Colab.
