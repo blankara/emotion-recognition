@@ -23,4 +23,4 @@ Open the Jupyter notebook in Google Colab and run all cells.
 - torch
 
 ## Author
-This project was built as a portfolio piece for AI university applications.
+This project was built by Blanka Rajchman as a portfolio piece for university applications.
